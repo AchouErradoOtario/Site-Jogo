@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Jogos Grátis</title>
+  <link rel="stylesheet" href="style.css">
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      text-align: center;
+      background-color: #f2f2f2;
+      color: #333;
+      margin: 50px;
+    }
+
+    h1 {
+      color: #4CAF50;
+    }
+
+    p {
+      font-size: 18px;
+      line-height: 1.5;
+    }
+
+    button {
+      background-color: #4CAF50;
+      color: white;
+      padding: 15px 25px;
+      font-size: 18px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+    }
+
+    button:hover {
+      background-color: #45a049;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Bem-vindo ao Mundo dos Jogos Grátis!</h1>
+  
+  <p>Descubra a emoção de jogar sem gastar um centavo!</p>
+  
+  <p>Por que pagar quando você pode ter diversão de graça, não é mesmo?!</p>
+  
+  <br>
+  <br>
+
+  <p>Para começar a sua jornada de jogos incríveis, clique no botão abaixo:</p>
+  
+  <a href="pagina1.html"><button>Explore Aqui</button></a>
+
+</body>
+</html>
